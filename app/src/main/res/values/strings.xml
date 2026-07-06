@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">loginpage</string>
+    <string name="onestop">ONESTOP</string>
+    <string name="enter_your_e_mail">ENTER YOUR E-MAIL</string>
+    <string name="enter_your_password">ENTER YOUR PASSWORD</string>
+    <string name="submit">submit</string>
+</resources>
