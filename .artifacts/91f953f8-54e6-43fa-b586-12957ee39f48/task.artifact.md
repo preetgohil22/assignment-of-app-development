@@ -1,0 +1,3 @@
+- [x] Update `activity_main.xml` to center images
+- [x] Update `MainActivity.kt` to match IDs and logic
+- [x] Verify functionality
